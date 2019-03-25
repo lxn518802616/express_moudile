@@ -10,6 +10,8 @@
     "cors": "^2.8.5",
     "debug": "~2.6.9",
     "express": "~4.16.0",
+    "file-stream-rotator": "^0.4.1",
+    "fs": "0.0.1-security",
     "http-errors": "~1.6.2",
     "morgan": "~1.9.0",
     "mysql": "^2.16.0",
