@@ -22,6 +22,7 @@ redis 连接
 log  日志输出写在本地文件上
 cors 跨域解决问题
 jwttoken token 处理
+eventproxy  处理并发
 ```
 
 
